@@ -27,9 +27,6 @@ I am a final-year Mathematics student at Bandung Institute of Technology (ITB) w
   <a href="https://github.com/MZakkiy">
     <img src="https://github-readme-stats.vercel.app/api?username=MZakkiy&show_icons=true&theme=radical&hide_border=true&v=1" alt="MZakkiy's GitHub Stats" />
   </a>
-  <a href="https://github.com/MZakkiy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MZakkiy&theme=radical&hide_border=true" alt="MZakkiy's GitHub Streak" />
-  </a>
 </p>
 <p align="center">
   <a href="https://github.com/MZakkiy">

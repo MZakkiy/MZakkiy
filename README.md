@@ -21,6 +21,17 @@ I am a final-year Mathematics student at Bandung Institute of Technology (ITB) w
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MZakkiy&show_icons=true&theme=radical&hide_border=true" alt="MZakkiy's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZakkiy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Databases** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -51,18 +62,3 @@ I am a final-year Mathematics student at Bandung Institute of Technology (ITB) w
 | 🧠 **[Deep Learning Models Validation](https://github.com/MZakkiy/deep-learning-models)** | Forward propagation modules engineered from scratch for CNN and RNN architectures, achieving 100% mathematical accuracy against Keras. | `NumPy`, `Math Modeling` |
 
 ---
-
-<!--
-**MZakkiy/MZakkiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

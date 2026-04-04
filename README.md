@@ -66,3 +66,14 @@ I am a final-year Mathematics student at Bandung Institute of Technology (ITB) w
 | 🧠 **[Deep Learning Models Validation](https://github.com/MZakkiy/deep-learning-models)** | Forward propagation modules engineered from scratch for CNN and RNN architectures, achieving 100% mathematical accuracy against Keras. | `NumPy`, `Math Modeling` |
 
 ---
+
+### 🏆 Certifications
+
+- **[Supervised Machine Learning: Regression and Classification]** - DeepLearning.AI, Stanford University
+- **[Advanced Learning Algorithms]** - DeepLearning.AI, Stanford University
+- **[Foundations: Data, Data, Everywhere]** - Google
+- **[Belajar Machine Learning untuk Pemula]** - Dicoding Indonesia
+- **[Belajar Dasar Visualisasi Data]** - Dicoding Indonesia
+- **[Memulai Pemrograman dengan Python]** - Dicoding Indonesia
+
+---

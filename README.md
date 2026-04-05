@@ -21,21 +21,6 @@ I am a final-year Mathematics student at Bandung Institute of Technology (ITB) w
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/MZakkiy">
-    <img src="https://github-readme-stats.vercel.app/api?username=MZakkiy&show_icons=true&theme=radical&hide_border=true&v=1" alt="MZakkiy's GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/MZakkiy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZakkiy&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Databases** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)

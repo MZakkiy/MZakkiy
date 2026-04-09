@@ -47,8 +47,8 @@ I am a final-year Mathematics student at Bandung Institute of Technology (ITB) w
 | 🛒 **[Enterprise Retail Analytics](https://github.com/MZakkiy/retail-profitability-analysis)** | Full-stack BI pipeline extracting data from MS SQL Server into a relational Star Schema. Features dynamic DAX currency normalization and an executive dashboard. | `SQL Server`, `Power Pivot`, `DAX` |
 | 💰 **[Relational Budget Tracker](https://github.com/MZakkiy/relational-budget-tracker)** | Robust database schema managing core financial entities. Utilizes custom SQL Views and strategic indexing to dynamically calculate net worth. | `SQL`, `Data Modeling` |
 | 🔥 **[PRADIKTA: Peatland Fire App](https://github.com/MZakkiy/pradikta)** | Desktop GUI app for time-series forecasting of fire vulnerability indices using optimized deep learning architectures. | `Python`, `LSTM/GRU`, `PySide6` |
-| 📄 **[Automated CV Analyzer](https://github.com/MZakkiy/cv-analyzer)** | Text-mining pipeline to extract unstructured PDF data using Regex, optimized with exact string matching algorithms in a relational database. | `Python`, `MySQL`, `NLP` |
-| 🧠 **[Deep Learning Models Validation](https://github.com/MZakkiy/deep-learning-models)** | Forward propagation modules engineered from scratch for CNN and RNN architectures, achieving 100% mathematical accuracy against Keras. | `NumPy`, `Math Modeling` |
+| 📄 **[Automated CV Analyzer](https://github.com/MZakkiy/Tubes3_draftingCV)** | Text-mining pipeline to extract unstructured PDF data using Regex, optimized with exact string matching algorithms in a relational database. | `Python`, `MySQL`, `NLP` |
+| 🧠 **[Deep Learning Models Validation](https://github.com/MZakkiy/TugasBesar2IF3270_Kelompok20)** | Forward propagation modules engineered from scratch for CNN and RNN architectures, achieving 100% mathematical accuracy against Keras. | `NumPy`, `Math Modeling` |
 
 ---
 
